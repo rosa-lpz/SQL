@@ -1,4 +1,4 @@
-# SQL Data Query
+# SQL Data Manipulation
 
 Data Manipulation Language (DML): This sub-language is used to manipulate data within a database. It includes commands such as SELECT, INSERT, UPDATE, and DELETE to retrieve, add, modify, and delete data in tables.
 
