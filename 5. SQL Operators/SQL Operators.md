@@ -47,7 +47,7 @@ When writing `WHERE` clauses with columns containing text data, SQL supports a n
 
 
 
-# Operators clasification
+## Operators clasification
 
 The following operators can be used in the `WHERE` clause:
 
