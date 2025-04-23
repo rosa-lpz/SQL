@@ -1,6 +1,6 @@
 # SQL Fundamentals
 
-Structured Query Language, or [[Computer Science/Programming/SQL/SQL]], as it’s better known as or SQL is a special‑purpose programming language. That differentiates it from other languages, like C, C++, JavaScript, or Java, which are all general‑purpose programming languages. This means that SQL has a very particular purpose, and that purpose is to manipulate sets of data.
+Structured Query Language, or SQL, as it’s better known as or SQL is a special‑purpose programming language. That differentiates it from other languages, like C, C++, JavaScript, or Java, which are all general‑purpose programming languages. This means that SQL has a very particular purpose, and that purpose is to manipulate sets of data.
 
 Now typically, we manipulate those sets of data from what we call a relational database. Typically, because there are other kinds of databases or other kinds of data sources that we can use SQL against, and even if we can’t use SQL directly against these other data sources, most query languages today have some relationship to SQL.
 
