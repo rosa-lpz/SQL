@@ -9,6 +9,7 @@
 * [SQL Data Query](https://github.com/rosa-lpz/SQL/blob/main/4.%20SQL%20Data%20Query/SQL%20Data%20Query.md)
 * [SQL Operators](https://github.com/rosa-lpz/SQL/blob/main/5.%20SQL%20Operators/SQL%20Operators.md)
 * [SQL Joins](https://github.com/rosa-lpz/SQL/blob/main/6.%20SQL%20Joins/SQL%20Joins.md)
+* [SQL Functions](https://github.com/rosa-lpz/SQL/blob/main/SQL%20Functions.md)
 
 
 
